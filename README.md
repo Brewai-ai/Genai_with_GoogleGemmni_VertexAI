@@ -1,0 +1,1 @@
+# Genai_with_GoogleGemmni_VertexAI
